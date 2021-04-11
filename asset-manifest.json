@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/protfolio-app/static/css/main.881ab1f5.chunk.css",
+    "main.js": "/protfolio-app/static/js/main.2cdc25f7.chunk.js",
+    "main.js.map": "/protfolio-app/static/js/main.2cdc25f7.chunk.js.map",
+    "runtime-main.js": "/protfolio-app/static/js/runtime-main.5a310af8.js",
+    "runtime-main.js.map": "/protfolio-app/static/js/runtime-main.5a310af8.js.map",
+    "static/js/2.279faa20.chunk.js": "/protfolio-app/static/js/2.279faa20.chunk.js",
+    "static/js/2.279faa20.chunk.js.map": "/protfolio-app/static/js/2.279faa20.chunk.js.map",
+    "index.html": "/protfolio-app/index.html",
+    "static/css/main.881ab1f5.chunk.css.map": "/protfolio-app/static/css/main.881ab1f5.chunk.css.map",
+    "static/js/2.279faa20.chunk.js.LICENSE.txt": "/protfolio-app/static/js/2.279faa20.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/protfolio-app/static/media/PermanentMarker-Regular.109a10dc.ttf",
+    "static/media/colors.1aa9d066.svg": "/protfolio-app/static/media/colors.1aa9d066.svg",
+    "static/media/logo.6ce24c58.svg": "/protfolio-app/static/media/logo.6ce24c58.svg",
+    "static/media/notepad.00bfae70.svg": "/protfolio-app/static/media/notepad.00bfae70.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a310af8.js",
+    "static/js/2.279faa20.chunk.js",
+    "static/css/main.881ab1f5.chunk.css",
+    "static/js/main.2cdc25f7.chunk.js"
+  ]
+}
