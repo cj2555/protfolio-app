@@ -1,0 +1,50 @@
+/* Main Colors
+************************************************************** */
+$reactBlue: #253033;
+
+/* Dark theme
+************************************************************** */
+@mixin darkTheme() {
+  background-color: black;
+  color: white;
+  // Start - Dark/Light mode toggle
+  .custom-control-input:focus ~ .custom-control-label::before {
+    border-color: rgb(77, 72, 72) !important;
+    box-shadow: 0 0 0 0rem rgba(0, 0, 0, 0) !important;
+  }
+  .custom-control-input ~ .custom-control-label::before {
+    background-color: black !important;
+    border-color: black !important;
+  }
+  .custom-control-input:checked ~ .custom-control-label::before {
+    background-color: black !important;
+    border-color: black !important;
+  }
+  // End
+  a {
+    color: white;
+  }
+}
+
+/* Light theme
+************************************************************** */
+@mixin lightTheme() {
+  background-color: #f8f8ff;
+  color: #292b2c;
+  // Start - Dark/Light mode toggle
+  .custom-control-input:focus ~ .custom-control-label::before {
+    border-color: rgb(61, 59, 59) !important;
+    box-shadow: 0 0 0 0rem rgba(56, 54, 54, 0) !important;
+  }
+  .custom-control-input ~ .custom-control-label::before {
+    background-color: $reactBlue !important;
+    border-color: $reactBlue !important;
+  }
+  // End
+  a {
+    color: #292b2c;
+  }
+  .card-title {
+    color: #535151;
+  }
+}
