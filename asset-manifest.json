@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/protfolio-app/static/css/main.349130ba.chunk.css",
-    "main.js": "/protfolio-app/static/js/main.af37699e.chunk.js",
-    "main.js.map": "/protfolio-app/static/js/main.af37699e.chunk.js.map",
+    "main.js": "/protfolio-app/static/js/main.bc61a035.chunk.js",
+    "main.js.map": "/protfolio-app/static/js/main.bc61a035.chunk.js.map",
     "runtime-main.js": "/protfolio-app/static/js/runtime-main.5a310af8.js",
     "runtime-main.js.map": "/protfolio-app/static/js/runtime-main.5a310af8.js.map",
     "static/js/2.279faa20.chunk.js": "/protfolio-app/static/js/2.279faa20.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.5a310af8.js",
     "static/js/2.279faa20.chunk.js",
     "static/css/main.349130ba.chunk.css",
-    "static/js/main.af37699e.chunk.js"
+    "static/js/main.bc61a035.chunk.js"
   ]
 }
